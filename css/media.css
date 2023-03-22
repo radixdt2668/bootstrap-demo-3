@@ -1,0 +1,114 @@
+/* ------------------------------------------------------------------------ */
+@media (min-width: 567PX) {
+    .pad-t-b {
+        padding: 45px 0;
+      }
+}
+/* ------------------------------------------------------------------------ */
+/* ------------------------------------------------------------------------ */
+@media (min-width: 768PX) {
+    .fs-56 {
+        font-size: 50px;
+        line-height: 62px;
+      }
+      .fs-48 {
+        font-size: 43px;
+        line-height: 56px;
+      }
+      .fs-40 {
+        font-size: 35px;
+        line-height: 48px;
+      }
+      .fs-32 {
+        font-size: 30px;
+        line-height: 42px;
+      }
+      .fs-28 {
+        font-size: 26px;
+        line-height: 38px;
+      }
+      .fs-24 {
+        font-size: 24px;
+        line-height: 34px;
+      }
+      .fs-18{
+        font-size: 18px;
+        line-height: 24px;
+      }
+      .fs-16 {
+        font-size: 16px;
+        line-height: 22px;
+      }
+      .img-p-div {
+        min-height: 260px;
+      }
+}
+/* ------------------------------------------------------------------------ */
+/* ------------------------------------------------------------------------ */
+@media (min-width: 992px) {
+    .fs-56 {
+        font-size: 53px;
+        line-height: 62px;
+      }
+      .fs-48 {
+        font-size: 45px;
+        line-height: 56px;
+      }
+      .fs-40 {
+        font-size: 37px;
+        line-height: 48px;
+      }
+      .fs-32 {
+        font-size: 30px;
+        line-height: 42px;
+      }
+      .pad-t-b {
+        padding: 60px 0;
+      }
+      .main-img-2 {
+        margin-top: -7rem;}
+      form{
+        border-radius: 0 15px 15px 0;
+          }
+}
+/* ------------------------------------------------------------------------ */
+/* ------------------------------------------------------------------------ */
+@media (min-width: 1200px) {
+    .fs-56 {
+        font-size: 56px;
+        line-height: 62px;
+      }
+      .fs-48 {
+        font-size: 48px;
+        line-height: 56px;
+      }
+      .fs-40 {
+        font-size: 40px;
+        line-height: 48px;
+      }
+      .fs-32 {
+        font-size: 32px;
+        line-height: 42px;
+      }
+      .pad-t-b {
+        padding: 75px 0;
+      }
+      .main-img-2 {
+        margin-top: -10rem;}
+      .img-p-div {
+        min-height: 280px;
+          }
+}
+/* ------------------------------------------------------------------------ */
+/* ------------------------------------------------------------------------ */
+@media (min-width: 1400px) {
+    .pad-t-b {
+        padding: 90px 0;
+      }
+    .main-img-2 {
+        margin-top: -14rem;}
+    .img-p-div {
+        min-height: 300px;
+          }
+}
+/* ------------------------------------------------------------------------ */
